@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="20dp">
+
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Ordenamiento Burbuja" android:textAlignment="center" android:textSize="20sp"/>
+
+    <EditText android:id="@+id/et1" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Número 1"/>
+    <EditText android:id="@+id/et2" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Número 2"/>
+    <EditText android:id="@+id/et3" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Número 3"/>
+    <EditText android:id="@+id/et4" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Número 4"/>
+    <EditText android:id="@+id/et5" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Número 5"/>
+
+    <Button android:id="@+id/btnOrdenar" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Ordenar"/>
+    <TextView android:id="@+id/tvResultado" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Resultado:"/>
+</LinearLayout>
