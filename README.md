@@ -1,8 +1,8 @@
 # Página de inicio
-![Image](https://github.com/user-attachments/assets/cfb8ee44-2657-4702-9037-f2cc37725141)
+![Image](https://github.com/user-attachments/assets/16d3090c-09e6-4412-8593-c95f162930f8)
 
 # Menú de especialidades
-![Image](https://github.com/user-attachments/assets/43a68513-02df-438b-89fd-cf519bfef45d)
+![Image](https://github.com/user-attachments/assets/e40e0fba-df79-4785-9601-9014423fd2dc)
 
 # Lista de staff médico
-![Image](https://github.com/user-attachments/assets/f5bdb8ac-308d-4527-8e3c-c6ad4b5b32d1)
+![Image](https://github.com/user-attachments/assets/f38c6a17-3114-4cd4-b405-a927dc73a688)
